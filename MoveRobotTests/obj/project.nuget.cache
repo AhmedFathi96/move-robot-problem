@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENlYk2z1wM6t/BUJRdPHeNFMFTfJVENSqEqKW78LeGwR7WT3+N66AhvRkDQsHech8cTJcw98/TOZS731LGluLQ==",
+  "dgSpecHash": "oEMgNDNYgb0nck2Om5ZBg/NX51IsAs/H4U97g7HT+1el92I8CpMf+XWtEmkwfHaSTNX7G0VXnqFd1dS2uIllIQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/Project/task/MoveRobotTests/MoveRobotTests.csproj",
+  "projectFilePath": "/Users/user/Documents/Project/move-robot-problem/MoveRobotTests/MoveRobotTests.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

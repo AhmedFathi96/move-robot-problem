@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/Project/task/task.csproj": {}
+    "/Users/user/Documents/Project/move-robot-problem/task.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/Project/task/task.csproj": {
+    "/Users/user/Documents/Project/move-robot-problem/task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/Project/task/task.csproj",
+        "projectUniqueName": "/Users/user/Documents/Project/move-robot-problem/task.csproj",
         "projectName": "task",
-        "projectPath": "/Users/user/Documents/Project/task/task.csproj",
+        "projectPath": "/Users/user/Documents/Project/move-robot-problem/task.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/Project/task/obj/",
+        "outputPath": "/Users/user/Documents/Project/move-robot-problem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

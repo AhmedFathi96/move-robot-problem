@@ -7,6 +7,20 @@ namespace Task
         protected int yBorder;
         protected int xPos;
         protected int yPos;
+        protected static Dictionary<string, string> directionsMap = new Dictionary<string, string>(){
+            {"nr","east"},
+            {"nl","west"},
+            {"nf","north"},
+            {"sr","east"},
+            {"sl","west"},
+            {"sf","south"},
+            {"wf","west"},
+            {"ef","east"},
+            {"wr","north"},
+            {"wl","south"},
+            {"er","south"},
+            {"el","north"}
+        };
 
         public MoveRobot(int xBorder,int yBorder){
             xPos = 1;
@@ -30,20 +44,7 @@ namespace Task
         }
 
         private string predictNextMove(string currentDirection, char direction) {
-            Dictionary<string, string> directionsMap = new Dictionary<string, string>();
-            directionsMap.Add("nr","east");
-            directionsMap.Add("nl","west");
-            directionsMap.Add("nf","north");
-            directionsMap.Add("sr","east");
-            directionsMap.Add("sl","west");
-            directionsMap.Add("sf","south");
-            directionsMap.Add("wf","west");
-            directionsMap.Add("ef","east");
-            directionsMap.Add("wr","north");
-            directionsMap.Add("wl","south");
-            directionsMap.Add("er","south");
-            directionsMap.Add("el","north");
-
+            
             return directionsMap[currentDirection[0] + "" + Char.ToLower(direction)];
 
         }

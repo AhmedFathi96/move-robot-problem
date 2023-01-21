@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkCKfGibmXXrEIfsrg+fQ1NXOB6Swaddb60E93nh5Ov5rrkXc80XK0I5MOVcGN+ht2XjOO3vURz4C2OG9G/FBg==",
+  "dgSpecHash": "jLEUxY3z4fIKMP+I0nImtvJSGpmXFuamYb0u0k7uuItxIJlxM5+V0hGIVgZO1z7ZHnFaMCjCFf+4/NxngbGpfQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/Project/task/task.csproj",
+  "projectFilePath": "/Users/user/Documents/Project/move-robot-problem/task.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
