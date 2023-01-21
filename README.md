@@ -2,4 +2,4 @@
 Move robot with specific path within a board with fixed dimensions 
 
 ## Run the unit tests
-run dotnet test MoveRobotTests/MoveRobotTests.csproj         
+dotnet test MoveRobotTests/MoveRobotTests.csproj         
